@@ -1,14 +1,16 @@
-# Eat and Split
+# Use Popcorn
 
-Eat and Split is a simple React application designed to help you split bills with friends. Whether you’re dining out or sharing expenses, this app calculates how much each person owes based on their payments and the total bill.
+Use Popcorn is a React application that allows users to search for movies, rate them, and manage a watchlist. The app fetches movie data from the IMDb API, providing an easy way for users to discover and keep track of their favorite films.
 
-[Deployed Project Link](https://eat-and-split-khaki.vercel.app/)
+[Deployed Project Link](https://usep-popcorn.vercel.app/)
 
 ## Features
 
-- Split bills between multiple people
-- Calculate how much each person owes or is owed
-- Easy-to-use interface for inputting payments and total bill
+- Search for movies by name
+- Fetch movie details from the IMDb API
+- Click on a searched movie to rate it
+- Add movies to a personal watchlist
+- Clear the watchlist or delete individual movies from it
 
 ## Contact
 
